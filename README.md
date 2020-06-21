@@ -1,1 +1,2 @@
-# automatic-octo-spork
+# BMI calculator
+flutter app for calculating BMI
